@@ -1,2 +1,3 @@
-# open-api-service-mi5n
-Automated issue comment bot repository
+# Open Api Service Mi5N
+
+Automated issue comment bot repository.
